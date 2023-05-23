@@ -1,0 +1,1 @@
+<img width="550" alt="Projeto Lógico" scr="(lojas-uvv.png)">
