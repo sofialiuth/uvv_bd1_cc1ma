@@ -5,4 +5,4 @@
 
 ## Diagrama Relacional PDF:
 
-[lojas_uvv.pdf](https://github.com/sofialiuth/uvv_bd1_cc1ma/files/11547080/lojas_uvv.pdf)
+![Diagrama Relacional das Lojas UVV](https://github.com/sofialiuth/uvv_bd1_cc1ma/assets/125693615/f14f2d95-c613-48e6-92da-5fcb85c45f66)
