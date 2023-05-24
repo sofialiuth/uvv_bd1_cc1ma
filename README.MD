@@ -1,7 +1,7 @@
 # Banco de dados, PSET1
 
-#### Sofia Liuth Costa
-#### 202305438
+## * Sofia Liuth Costa
+## * 202305438
 
 ##### 1°: Fiz o projeto lógico no Power Arqhitect e salvei em PDF;
 ##### 2°: Respondi as questões discursivas;
