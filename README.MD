@@ -12,4 +12,4 @@ Em seguida, utilizei o SQL Power Architect para gerar um script SQL com base no 
 
 Essas tarefas demandaram um bom domínio da ferramenta SQL Power Architect, conhecimento sólido em modelagem de banco de dados, além de habilidades em programação para a implementação dos códigos adicionais. Acredito que essas contribuições foram cruciais para garantir a consistência entre o diagrama, a implementação do banco de dados e a funcionalidade geral do projeto.
 
-Estou satisfeito com os resultados alcançados, pois acredito que essas tarefas foram fundamentais para o progresso e sucesso do projeto.
+Estou satisfeita com os resultados alcançados, pois acredito que essas tarefas foram fundamentais para o meu aprendizado em SQL.
