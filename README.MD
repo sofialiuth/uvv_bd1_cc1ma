@@ -1,5 +1,5 @@
 # Design e Desenvolvimento de Bancos de Dados
-#— PSET 1
+# PSET 1
 
 + ALUNA: Sofia Liuth Costa
 + PROFESSOR: Abrantes Araújo Silva Filho
