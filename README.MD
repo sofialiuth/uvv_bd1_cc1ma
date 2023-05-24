@@ -1,6 +1,6 @@
 # Banco de dados, PSET1
 
-##### ALUNA: Sofia Liuth Costa
+ALUNA: Sofia Liuth Costa
 ##### PROFESSOR: Abrantes Araújo Silva Filho
 ##### MONITORIA: Suellen Miranda Amorim
 
