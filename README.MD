@@ -7,5 +7,5 @@
 ###### 1°: Fiz o projeto lógico no Power Arqhitect e salvei em PDF;
 ###### 2°: Respondi as questões discursivas;
 ###### 3°: Voltei para o Power Architect, fiz os comentário, atribui o nome ao schema como "lojas", gerei o script e salvei no Desktop;
-######4°: wdwgwgwgwwdgwg
+###### 4°: wdwgwgwgwwdgwg
 
