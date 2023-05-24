@@ -1,7 +1,8 @@
 # Banco de dados, PSET1
 
-## * Sofia Liuth Costa
-## * 202305438
+### ALUNA: Sofia Liuth Costa
+### PROFESSOR: Abrantes Araújo Silva Filho
+### MONITORIA: Suellen Miranda Amorim
 
 ##### 1°: Fiz o projeto lógico no Power Arqhitect e salvei em PDF;
 ##### 2°: Respondi as questões discursivas;
